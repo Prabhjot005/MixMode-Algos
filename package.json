@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1594.0",
+    "require": "^2.4.20",
+    "typescript": "^5.4.4",
+    "uuid": "^9.0.1"
+  },
+  "name": "parserapi",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.4"
+  }
+}
